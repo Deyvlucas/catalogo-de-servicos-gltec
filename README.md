@@ -45,6 +45,7 @@ styles/             # Estilos globais
      ```env
      NEXT_PUBLIC_SUPABASE_URL=xxxx
      NEXT_PUBLIC_SUPABASE_ANON_KEY=xxxx
+     NEXT_PUBLIC_ADMIN_PASSWORD=xxxxx
      ```
    - Obtenha as chaves no [painel do Supabase](https://app.supabase.com/).
 4. **Inicie o servidor de desenvolvimento:**
